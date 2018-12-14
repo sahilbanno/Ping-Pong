@@ -1,0 +1,4 @@
+#Sat Dec 15 00:08:40 IST 2018
+base.0=G\:\\Android Project\\Ping-Pong\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

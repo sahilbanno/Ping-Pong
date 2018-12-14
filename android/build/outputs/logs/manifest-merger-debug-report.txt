@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:3:5-29
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:5:5-73
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:5:5-73
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:5:5-73
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:5:5-73
+INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:5:5-73
+	android:targetSdkVersion
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:5:41-70
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:5:15-40
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+		INJECTED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml
+application
+ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:7:5-22:19
+	android:label
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:11:9-40
+activity#com.mygdx.game.AndroidLauncher
+ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:16:13-94
+	android:name
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:13:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from G:\Android Project\Ping-Pong\android\AndroidManifest.xml:19:27-74
